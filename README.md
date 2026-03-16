@@ -5,6 +5,10 @@ Clinic Appointment System
 
 The University Clinic Appointment System is designed to support SDG 3: Good Health and Well-Being by making healthcare services at the university clinic easier to access. The system allows students to book, view, and cancel clinic appointments online, while also helping doctors and administrators manage schedules more effectively. By digitizing the appointment process, the system helps reduce long waiting times and improves the overall healthcare experience for students.
 
+Team Member
+
+Yap Elaine 0390008
+
 Overview of SDLC Work
 
 This project was developed using the Software Development Life Cycle (SDLC) to ensure the system was planned, designed, and tested in an organized way.

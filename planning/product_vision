@@ -1,0 +1,65 @@
+Vision Statement:
+
+To provide a simple, efficient, and accessible online appointment system that allows university students to easily book, manage, and track their clinic appointments, while enabling doctors, receptionists, and administrators to manage schedules and patient records effectively.
+
+1. Target Users
+
+Primary Users:
+
+Students (patients)
+
+Secondary Users:
+
+Doctors
+
+Clinic Receptionists
+
+System Administrators
+
+2. Needs / Problems Addressed
+
+Students face long queues or waiting times at the clinic.
+
+Difficulty in checking doctor availability before visiting.
+
+Manual appointment and patient record management is time-consuming for staff.
+
+Lack of notifications or reminders for appointments.
+
+3. Product Goals
+
+Allow students to register, login, and book appointments online.
+
+Display doctor schedules and available slots in real time.
+
+Enable students to reschedule or cancel appointments easily.
+
+Notify students about appointment confirmations or changes via email/SMS.
+
+Allow doctors to view appointments, update patient records, and mark appointments complete.
+
+Provide receptionists/admins with a dashboard to manage schedules, appointments, and reports.
+
+4. Key Features
+
+User authentication (Login/Register)
+
+Dashboard for students, doctors, and admins
+
+Appointment booking, rescheduling, and cancellation
+
+Doctor availability display
+
+Notification system (email/SMS)
+
+Medical record management
+
+Reports and analytics for administrators
+
+5. Value Proposition
+
+For students: saves time, reduces waiting, ensures convenience.
+
+For doctors and staff: simplifies appointment and patient management.
+
+For university: improves clinic efficiency and student satisfaction.
